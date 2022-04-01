@@ -1,6 +1,6 @@
 # Certificate_Cleanup
 
-CUCM Certificate Cleanup
+CUCM Certificate Cleanup - Single node
 
 ### Process Overview
 1. Collect all the trust certificates from CUCM using admin CLI
